@@ -12,6 +12,7 @@ example and uses the values that were input into the function:
 */
 
 export function sum(a, b) {
+    //this comments only purpose is to make commitable change
     let result = [];
     let sum = a + b;
     result.push(sum);
